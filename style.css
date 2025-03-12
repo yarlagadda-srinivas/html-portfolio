@@ -1,0 +1,36 @@
+/* #D{
+    color: red;
+    background: yellow;
+    text-decoration: double underline;
+}
+#T{
+    color:blue;
+    background-color: rgb(123, 255, 0);
+    text-decoration: double underline black;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+#R{
+    color:black;
+    background-color: aqua;
+    text-decoration: ;
+}
+    */
+    button{
+        color: white;
+        background-color: black;
+    }
+    h1,h2{
+        text-align: center;
+        color: blueviolet;
+    }
+h3{ 
+    color:black;
+    
+    text-decoration: ;
+}
+p{
+    color: red;
+    font-size:larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
